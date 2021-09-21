@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Facebook👇
 https://www.facebook.com/Arin.mandal40/
+-LinkedIn
 https://www.linkedin.com/in/arin-mandal-79b261151/
 <!---
 arinmandal/arinmandal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
