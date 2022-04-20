@@ -9,18 +9,22 @@
 
 [<img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>](https://twitter.com/ArinMandal)
 &nbsp;&nbsp;
-[<img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>](https://www.facebook.com/Arin.mandal40/)
+[<img align="left" alt="Facebook" width="26px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>](https://www.facebook.com/Arin.mandal40/)
 &nbsp;&nbsp;
-[<img img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/aris_shutter/)
-[<img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/arin-mandal-79b261151/)
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+[<img img align="left" alt="instagram" width="26px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/aris_shutter/)
+[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/arin-mandal-79b261151/)
+### My Skills 🖊
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Bootstrap" width="26px" src="D:\GitHub\img\bootstrap-4.svg" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="26px"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png"/>
+
+###Tools⚙
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+
+
 <!-- <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /> -->
