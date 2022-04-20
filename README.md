@@ -17,9 +17,11 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bootstrap" width="26px"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png"/>
+<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png"/> 
+<img align="left" alt="Figma" width="26px" src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+<img align="left" alt="Lightrom" width="26px" src="https://img.icons8.com/material/48/000000/adobe-lightroom.png"/>
 
-###Tools⚙
+### Tools⚙
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
