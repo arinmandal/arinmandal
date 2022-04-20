@@ -21,7 +21,9 @@
 <img align="left" alt="Figma" width="26px" src="https://img.icons8.com/fluency/48/000000/figma.png"/>
 <img align="left" alt="Lightrom" width="26px" src="https://img.icons8.com/material/48/000000/adobe-lightroom.png"/>
 
-### Tools
+<br/>
+
+### Tools ⚙
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
