@@ -7,14 +7,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>](https://twitter.com/ArinMandal)
+[<img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>](https://twitter.com/ArinMandal)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arin-mandal-79b261151/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arin-mandal-79b261151/#gh-dark-mode-only)
+[<img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>](https://www.facebook.com/Arin.mandal40/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/aris_shutter/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/aris_shutter/#gh-dark-mode-only)
-
+[<img img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/aris_shutter/)
+[<img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/arin-mandal-79b261151/)
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
