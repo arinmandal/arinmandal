@@ -1,7 +1,6 @@
 ## Hello World!
 
 - 🌱 LifeLong Learner
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to Click Pictures and play with Cameras.
 
@@ -19,7 +18,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png"/> 
 <img align="left" alt="Figma" width="26px" src="https://img.icons8.com/fluency/48/000000/figma.png"/>
-<img align="left" alt="Lightrom" width="26px" src="https://img.icons8.com/material/48/000000/adobe-lightroom.png"/>
+<!-- <img align="left" alt="Lightrom" width="26px" src="https://img.icons8.com/material/48/000000/adobe-lightroom.png"/> -->
 
 <br/>
 
