@@ -18,22 +18,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.instagram.com/aris_shutter/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/ArinMandal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://codepen.io/arinmandal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="37" height="25" alt="codepen logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
