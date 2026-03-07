@@ -27,14 +27,7 @@ I recently published my first **VS Code theme** designed for a distraction-free 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arinmandal&layout=compact&langs_count=6&theme=radical" alt="Top languages" />
-</p>
-
----
-
+<br>
 <p align="center">
   <i>Thanks for visiting — stay curious, stay creative 🚀</i>
 </p>
