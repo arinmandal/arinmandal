@@ -23,18 +23,21 @@
 ### 🌌 Shipped to Production
 
 #### **Eclipse Wave — VS Code Theme**
+
 A minimal, modern, highly focused dark theme live on the extensions marketplace.
 
-👉 [**Install From VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=ArinMandal.eclipse-wave)
+<p align="left">
+  👉 <a href="https://marketplace.visualstudio.com/items?itemName=ArinMandal.eclipse-wave" style="text-decoration: none; font-weight: bold;">Install From VS Code Marketplace</a>
+</p>
 
 ---
 
 ### 🛠️ Core Capabilities
 
-* 🚀 **Frontend Ecosystem:** React, Next.js, TypeScript, State Management, Clean Code.
-* 📐 **Design-to-Code:** Pixel-perfect translation of complex layouts into responsive web apps.
-* ⚡ **Motion & Performance:** Advanced scroll timelines, GSAP micro-interactions, fluid UI.
-* 📸 **Visual Eye:** Detail-oriented layout composition backed by a background in mobile photography.
+- 🚀 **Frontend Ecosystem:** React, Next.js, TypeScript, State Management, Clean Code.
+- 📐 **Design-to-Code:** Pixel-perfect translation of complex layouts into responsive web apps.
+- ⚡ **Motion & Performance:** Advanced scroll timelines, GSAP micro-interactions, fluid UI.
+- 📸 **Visual Eye:** Detail-oriented layout composition backed by a background in mobile photography.
 
 ---
 
